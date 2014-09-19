@@ -1,4 +1,4 @@
-package pt.ipb.patterns;
+package pt.ipb.patterns.creational.singleton;
 
 /* thread-safe */
 class Singleton {

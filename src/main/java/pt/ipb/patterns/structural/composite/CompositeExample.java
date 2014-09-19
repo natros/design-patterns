@@ -1,4 +1,4 @@
-package pt.ipb.patterns;
+package pt.ipb.patterns.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;

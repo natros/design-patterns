@@ -1,4 +1,4 @@
-package pt.ipb.patterns;
+package pt.ipb.patterns.creational.factory;
 
 interface DecodedImage {
     String getType();
