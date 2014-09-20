@@ -21,7 +21,6 @@ class RealImage implements Image {
     public void displayImage() {
         System.out.println("Displaying " + filename);
     }
-
 }
 
 //on System B 
@@ -40,7 +39,6 @@ class ProxyImage implements Image {
         }
         image.displayImage();
     }
-
 }
 
 public class ProxyExample {
